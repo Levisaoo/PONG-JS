@@ -6,8 +6,8 @@ let raio = diametro / 2 ;
 
   //velocidade da bolinha
 
-let = velocidadexBolinha = 10;
-let = velocidadeyBolinha = 10;
+let = velocidadexBolinha = 100;
+let = velocidadeyBolinha = 100;
 
 //variaveis da raquete;
 let xRaquete = 5;
