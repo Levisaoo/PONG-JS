@@ -6,7 +6,7 @@ let raio = diametro / 2 ;
 
   //velocidade da bolinha
 
-let = velocidadexBolinha = 900;
+let = velocidadexBolinha = 90;
 let = velocidadeyBolinha = 90;
 
 
